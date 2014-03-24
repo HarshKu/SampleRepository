@@ -1,2 +1,2 @@
 This is a simple file to be tracked using Git.
-First changes made to the file.
+First changes made to the file. Changes made in the dummy branch.
